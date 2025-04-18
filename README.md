@@ -59,12 +59,11 @@
 ---
 
 <h2 align="center">📬 Let's Connect</h2>
-
 <p align="center">
-  <a href="mailto:nehapansare@gmail.com">
+  <a href="mailto:nehapansare007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/neha-pansare-b8a1a8228" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/nehapansare" target="_blank">
